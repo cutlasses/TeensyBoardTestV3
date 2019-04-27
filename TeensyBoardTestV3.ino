@@ -11,12 +11,12 @@ const constexpr int CV_4_PIN(A2);
 const constexpr int CV_5_PIN(A1);
 const constexpr int CV_6_PIN(A0);
 
-const constexpr int POT_1_PIN(A15);
-const constexpr int POT_2_PIN(A16);
-const constexpr int POT_3_PIN(A17);
-const constexpr int POT_4_PIN(A18);
-const constexpr int POT_5_PIN(A19);
-const constexpr int POT_6_PIN(A20);
+const constexpr int POT_1_PIN(A20);
+const constexpr int POT_2_PIN(A19);
+const constexpr int POT_3_PIN(A18);
+const constexpr int POT_4_PIN(A17);
+const constexpr int POT_5_PIN(A16);
+const constexpr int POT_6_PIN(A15);
 
 const constexpr int LED_1_PIN( 28 );
 const constexpr int LED_2_PIN( 29 );
